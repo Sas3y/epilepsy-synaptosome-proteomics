@@ -1,5 +1,6 @@
 *.docx
 *.txt
-
-*.py
-*ipynb
+!requirements.txt
+*.md
+temp/*
+.venv/*
